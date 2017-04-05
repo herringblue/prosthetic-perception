@@ -1,0 +1,8 @@
+{
+  "name": "Dancing Eyes",
+  "manifest_version": 2,
+  "version": "0.1",
+  "background": {
+    "scripts": ["content.js"]
+    }
+}
